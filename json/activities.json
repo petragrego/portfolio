@@ -1,0 +1,87 @@
+[
+      {
+            "actividades_title": "LANÇAMENTO DO PROGRAMA INSPIRA",
+            "actividades_info": "Palestra 'Building better together — digital futures in diverse hands', apresentação do programa e mesa redonda",
+            "actividades_descricao":"Evento de lançamento do programa INSPIRA com a Conferência ‘Building better together — digital futures in diverse hands’ com a oradora Geraldine Fitzpatrick; apresentação do programa INSPIRA e Mesa redonda ‘Perspetivas, experiências, e desafios para a retenção das mulheres na área da Informática’. <br><br><br> <a class='button_dentro' href=\"images/lançamento/programa.png\" rel=\"noopener noreferrer\" target=\"_blank\"> Horário completo </a> <br><br> <a class='button_dentro' href=\"images/lançamento/conferencia.png\" rel=\"noopener noreferrer\" target=\"_blank\"> Conferência </a>",
+            "actividades_inscricao": "INSCRIÇÕES",
+            "actividades_link": "https://bit.ly/mentoriainspira",
+            "actividades_horario": "28 de Abril <br> 14h00-17h00",
+            "actividades_local": "SALA A5.4 <br> Dep. de Engenharia Informática <br> FCTUC",
+    
+            "actividades_title_en": "INSPIRA PROGRAM LAUNCH",
+            "actividades_info_en": "Lecture 'Building better together — digital futures in diverse hands', program presentation and roundtable",
+            "actividades_descricao_en":"Talk ‘Building better together — digital futures in diverse hands’ with Geraldine Fitzpatrick; presentation of the INSPIRA program and Round table ‘Perspectives, experiences, and challenges for the retention of women in the IT field’. <br><br><br> <a class='button_dentro' href=\"images/lançamento/programa.png\" rel=\"noopener noreferrer\" target=\"_blank\"> Full Schedule </a> <br><br> <a class='button_dentro' href=\"images/lançamento/conferencia.png\" rel=\"noopener noreferrer\" target=\"_blank\"> Talk </a>",
+            "actividades_inscricao_en": "SING UP",
+            "actividades_link_en": "https://bit.ly/mentoriainspira",
+            "actividades_horario_en": "28th of April <br> 14h00-17h00",
+            "actividades_local_en": "SALA A5.4 <br> Dep. de Engenharia Informática <br> FCTUC"
+        }, 
+      {
+        "actividades_title": "MENTORIA INDIVIDUAL",
+        "actividades_info": "Mentora/mentoranda (one to one) participam em reuniões/sessões de mentoria (quatro sessões de uma hora, no mínimo ao longo de um ano letivo).",
+        "actividades_descricao":"Mentora/mentoranda (one to one) participam em reuniões/sessões de mentoria (quatro sessões de uma hora, no mínimo ao longo de um ano letivo).",
+        "actividades_inscricao": "EM BREVE",
+        "actividades_link": "...",
+        "actividades_horario": "...",
+        "actividades_local": "...",
+
+        "actividades_title_en": "INDIVIDUAL MENTORING",
+        "actividades_info_en": "Mentor/mentee (one to one) participate in mentoring meetings/sessions (four one-hour sessions, minimum over the course of an academic year).",
+        "actividades_descricao_en":"Today we bing you... LinkedIn de qualidade é meio caminho andado para conseguir o nosso emprego de sonho, ou simplesmente começar a nossa aventura como developer. Por isso, iremos ver como podemos melhorar o nosso perfil, explorando os casos concretos das participantes.Iremos ver como podemos melhorar o nosso perfil, explorando os casos concretos das participantes.",
+        "actividades_inscricao_en": "+ SOON",
+        "actividades_link_en": "...",
+        "actividades_horario_en": "...",
+        "actividades_local_en": "..."
+    }, 
+    {
+        "actividades_title": "MENTORIA DE GRUPO", 
+        "actividades_info": "Um/a ou dois/uas mentoras/es animam sessões com várias mentorandas. Estas sessões podem ser organizadas em diversos formatos.",
+        "actividades_descricao":"Um/a ou dois/uas mentoras/es animam sessões com várias mentorandas. Estas sessões podem ser organizadas em diversos formatos.",
+        "actividades_inscricao": "EM BREVE",
+        "actividades_link": "...",
+        "actividades_horario": "...",
+        "actividades_local": "...",
+
+        "actividades_title_en": "GROUP MENTORING",
+        "actividades_info_en": "One or two mentors facilitate sessions with several mentees. These sessions can be organized in a variety of formats.",
+        "actividades_descricao_en":"Sessions in which, based on the observation of video teasers, one reflects about the importance of diversity and role-models.",
+        "actividades_inscricao_en": "+ SOON",
+        "actividades_link_en": "...",
+        "actividades_horario_en": "...",
+        "actividades_local_en": "..."
+  },
+  {
+        "actividades_title": "ANÁLISE DE VIDEO TEASERS",
+        "actividades_info": "Sessões em que a partir da observação de video teasers, se pensa sobre a importância da diversidade e sobre o papel dos role-models.",
+        "actividades_descricao":"Sessões em que a partir da observação de video teasers, se pensa sobre a importância da diversidade e sobre o papel dos role-models, provenientes quer da academia quer do sector empresarial.",
+        "actividades_inscricao": "EM BREVE",
+        "actividades_link": "...",
+        "actividades_horario": "...",
+        "actividades_local": "...",
+
+        "actividades_title_en": "CONTACT WITH ROLE MODELS",
+        "actividades_info_en": "Sessions in which, based on the observation of video teasers, one thinks about the importance of diversity and the role of role-models.",
+        "actividades_descricao_en":"Contact with role models from both academia and the business sector, through seminars, conferences or interviews.",
+        "actividades_inscricao_en": "+ SOON",
+        "actividades_link_en": "...",
+        "actividades_horario_en": "...",
+        "actividades_local_en": "..."
+  } ,
+  {
+        "actividades_title": "OUTROS EVENTOS",
+        "actividades_info": "Mais informação em breve.",
+        "actividades_descricao":"Mais informação em breve.",
+        "actividades_inscricao": "EM BREVE",
+        "actividades_link": "...",
+        "actividades_horario": "...",
+        "actividades_local": "...",
+
+        "actividades_title_en": "OTHER EVENTS",
+        "actividades_info_en": "More information coming soon.",
+        "actividades_descricao_en":"More information coming soon.",
+        "actividades_inscricao_en": "+ SOON",
+        "actividades_link_en": "...",
+        "actividades_horario_en": "...",
+        "actividades_local_en": "..."
+  }
+]

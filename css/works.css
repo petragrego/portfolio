@@ -1,0 +1,226 @@
+main{
+    margin: 0% 3% 0% 5%;
+  }  
+
+#works{
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+#grow{
+  transition: all .2s ease-in-out;
+}
+
+#grow:hover{
+  transform: scale(1.02);
+}
+
+.works_name h1{
+    font-size: 140px;
+    font-weight: 400;
+    margin-top: 12vh;
+
+}
+  
+.line-divider {
+    border: 0.5px solid rgb(0, 0, 0);
+    height: 0.5px;
+    width: 97%;
+}
+
+.section_works{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 3% 0;
+}
+
+.info{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.what{
+    font-size: 20px;
+    font-weight: 200;
+    width: 70%;
+    margin-left: -6vh;
+}
+
+.date_w{
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 400;
+  margin-bottom: 1%;
+  text-align: end;
+}
+
+.image_w{
+  width: 40%;
+}
+
+.section_works img{
+  width: 100%;
+  position: relative;
+  left: 73%;
+  margin: 2% 0%;
+}
+
+.info2{
+  width: 110%;
+  display: flex; 
+  justify-content: space-around;
+}
+
+.title_w{
+  font-size: 30px;
+  font-weight: 600;
+  width: 40%;
+  margin-left: -28vh;
+}
+
+.view{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.view:hover{
+  text-decoration: underline;
+}
+
+
+
+/* TABLET */
+@media only screen and (min-width: 415px) and (max-width: 820px) {
+  .works_name h1{
+    font-size: 120px;
+    margin-top: 8vh;
+
+}
+
+.section_works{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 3% 0;
+}
+
+.info{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.what{
+    width: 90%;
+    margin-left: 0vh;
+    margin-bottom: 3%;
+}
+
+.date_w{
+  text-align: start;
+}
+
+.image_w{
+  width: 95%;
+}
+
+.section_works img{
+  left: 0vh;
+  margin: 4% 0%;
+  object-fit: cover;
+}
+
+.info2{
+  display: flex; 
+  flex-direction: column;
+}
+
+.title_w{
+  margin-left: 0vh;
+  margin-bottom: 3%;
+  width: 90%;
+}
+
+.view{
+  margin-bottom: 3%;
+}
+
+
+}
+  
+  
+  /* MOBILE */
+  @media only screen and (max-width: 415px) {
+    .works_name h1{
+      font-size: 90px;
+      margin-top: 8vh;
+
+  }
+  
+  .section_works{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 3% 0;
+  }
+  
+  .info{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .what{
+      width: 95%;
+      margin-left: 0vh;
+      margin-bottom: 3%;
+      font-weight: 200;
+  }
+  
+  .date_w{
+    text-align: start;
+  }
+  
+  .image_w{
+    width: 95%;
+  }
+  
+  .section_works img{
+    left: 0vh;
+    margin: 4% 0%;
+    object-fit: cover;
+  }
+  
+  .info2{
+    display: flex; 
+    flex-direction: column;
+  }
+  
+  .title_w{
+    font-size: 25px;
+    margin-left: 0vh;
+    margin-bottom: 3%;
+    width: 90%;
+  }
+  
+  .view{
+    margin-bottom: 3%;
+    font-weight: 400;
+  }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
