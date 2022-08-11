@@ -270,20 +270,24 @@ margin: 2% 0;
     margin: 0% 0% 7% 0;
 }
 
-.tech2{
+.blue{
     display: flex;
     flex-direction: column !important;
     width: 100%;
-    margin-top: -7%;
+    margin-top: 3%;
 }
 
 .tech_layout img{
     margin-left: 3% !important;
 }
 
-.tech22{
+.blue_info{
     width: 70%;
     margin: 3% 0 5% 0!important;
+}
+
+.blue img{
+    width: 90%;
 }
 
 .img_tech2{
@@ -335,7 +339,7 @@ margin: 2% 0;
 
 .tech21{
     display: flex;
-    flex-direction: column;
+    flex-direction: c;
     margin: 0%;
 }
 
@@ -699,7 +703,7 @@ li{
 }
 
 .tech2 .img_tech23{
-    margin-left: 0%;
+    margin-left: 0% !important;
     margin-top: 5%;
     width: 95%;
 }
