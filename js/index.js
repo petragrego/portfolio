@@ -1,4 +1,4 @@
-var words = ['UX/UI designer.', 'UX/UI designer.',],
+var words = ['UX/UI designer.', 'UX/UI designer.'],
     part,
     i = 0,
     offset = 0,

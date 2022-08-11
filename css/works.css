@@ -92,11 +92,15 @@ main{
 
 
 /* TABLET */
-@media only screen and (min-width: 415px) and (max-width: 820px) {
+@media only screen and (min-width: 415px) and (max-width: 1250px) {
   .works_name h1{
     font-size: 120px;
     margin-top: 8vh;
 
+}
+
+.burguer {
+  margin-right: 10% !important;
 }
 
 .section_works{
@@ -158,6 +162,11 @@ main{
       margin-top: 8vh;
 
   }
+
+  .burguer {
+    margin-right: 10% !important;
+  }
+  
   
   .section_works{
     display: flex;
