@@ -25,7 +25,11 @@ footer{
   font-size: 25px;
   font-weight: 400;
   width: 60%;
-  margin-top: 3%;
+  margin-top: 2%;
+}
+
+.word{
+  font-weight: 300;
 }
 
 /* TABLET */
